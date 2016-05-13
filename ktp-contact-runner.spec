@@ -33,6 +33,7 @@ BuildRequires:	cmake(KF5I18n)
 BuildRequires:	cmake(KF5Service)
 BuildRequires:	cmake(KF5Runner)
 BuildRequires:	cmake(KTp)
+BuildRequires:	cmake(TelepathyLoggerQt)
 
 %description
 KRunner integration for KDE Telepathy contacts
