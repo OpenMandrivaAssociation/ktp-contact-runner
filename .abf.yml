@@ -1,2 +1,4 @@
-sources:
+removed_sources:
   ktp-contact-runner-17.12.1.tar.xz: b3648720ef26f29a97768d4ec12377bce003b0f7
+sources:
+  ktp-contact-runner-17.12.2.tar.xz: 0032bc439a408a75708fe4b8505e6e644fd5e5d6
