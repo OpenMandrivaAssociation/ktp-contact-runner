@@ -1,6 +1,6 @@
 Summary:	KRunner integration for KDE Telepathy contacts
 Name:		ktp-contact-runner
-Version:	 18.11.90
+Version:	 18.12.0
 Release:	1
 Epoch:		1
 License:	GPLv2+
