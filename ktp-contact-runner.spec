@@ -1,6 +1,6 @@
 Summary:	KRunner integration for KDE Telepathy contacts
 Name:		ktp-contact-runner
-Version:	20.08.3
+Version:	20.11.80
 Release:	1
 Epoch:		1
 License:	GPLv2+
@@ -39,8 +39,7 @@ BuildRequires:	cmake(TelepathyLoggerQt)
 KRunner integration for KDE Telepathy contacts
 
 %files -f plasma_runner_ktp_contacts.lang
-%{_libdir}/qt5/plugins/krunner_ktp_contacts.so
-%{_datadir}/kservices5/plasma-runner-ktp-contact.desktop
+%{_libdir}/qt5/plugins/kf5/krunner/krunner_ktp_contacts.so
 
 %prep
 %setup -q
